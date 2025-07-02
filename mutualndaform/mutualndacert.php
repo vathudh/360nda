@@ -22,7 +22,7 @@
     <div class="container">
         <!-- Logo -->
         <div class="logo">
-            <a href="index.php"><img src="images/logo360.png" alt="360 Logo" id="logo-img"></a>
+            <a href="../index.php"><img src="images/logo360.png" alt="360 Logo" id="logo-img"></a>
         </div>
 
         <!-- Mobile Menu Toggle -->
@@ -35,11 +35,11 @@
         <!-- Navigation Menu -->
         <nav id="main-nav">
             <ul class="menu">
-                <li><a href="index.php" class="">Home</a></li>
-                <li><a href="about.php" class="">About</a></li>
-                <li><a href="service.php" class="">Services</a></li>
-                <li><a href="testimonial.php" class="">Client Story</a></li>
-                <li><a href="contact.php" class="">Contact</a></li>
+                <li><a href="../index.php" class="">Home</a></li>
+                <li><a href="../about.php" class="">About</a></li>
+                <li><a href="../service.php" class="">Services</a></li>
+                <li><a href="../testimonial.php" class="">Client Story</a></li>
+                <li><a href="../contact.php" class="">Contact</a></li>
             </ul>
         </nav>
     </div>
